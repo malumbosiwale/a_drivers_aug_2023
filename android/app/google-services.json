@@ -1,0 +1,137 @@
+{
+  "project_info": {
+    "project_number": "142655714956",
+    "project_id": "twende-b31fb",
+    "storage_bucket": "twende-b31fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142655714956:android:83b235dcbcc2afda402da9",
+        "android_client_info": {
+          "package_name": "com.zeecoder.twende"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142655714956-9lc5eco6k4sbj10dsnpasnto1as3cd99.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zeecoder.twende",
+            "certificate_hash": "14c44468294e662a3275c6f7ebf43ca9bfff958d"
+          }
+        },
+        {
+          "client_id": "142655714956-ng5mdhl21b4b739jqd5ojemiim5i1ets.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zeecoder.twende",
+            "certificate_hash": "0a96ed569b298a0056a9c96b53f86dff7030762d"
+          }
+        },
+        {
+          "client_id": "142655714956-bs3q78a3or8cmfrv6optr72nltnu88k5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV_Xwv7lkrYEdDzglWJ5wNXZwT-IhtknI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142655714956-bs3q78a3or8cmfrv6optr72nltnu88k5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142655714956:android:394fb7c5f7f68f5e402da9",
+        "android_client_info": {
+          "package_name": "tech.zeecoder.a_drivers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142655714956-3qftqaqlajl2n8t6sk2b1uija8killpd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tech.zeecoder.a_drivers",
+            "certificate_hash": "0a96ed569b298a0056a9c96b53f86dff7030762d"
+          }
+        },
+        {
+          "client_id": "142655714956-bs3q78a3or8cmfrv6optr72nltnu88k5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV_Xwv7lkrYEdDzglWJ5wNXZwT-IhtknI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142655714956-bs3q78a3or8cmfrv6optr72nltnu88k5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142655714956:android:b39e8b3517121b92402da9",
+        "android_client_info": {
+          "package_name": "tech.zeecoder.atwende_drivers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142655714956-cb1v8p1h09e5hq6h2eqci3pqct3pbu5d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tech.zeecoder.atwende_drivers",
+            "certificate_hash": "aba206b0aa9e274acd034f07cf80af6591d5c7be"
+          }
+        },
+        {
+          "client_id": "142655714956-co4524rnutjht3rjbckcmi4fqq2ifun3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tech.zeecoder.atwende_drivers",
+            "certificate_hash": "0a96ed569b298a0056a9c96b53f86dff7030762d"
+          }
+        },
+        {
+          "client_id": "142655714956-bs3q78a3or8cmfrv6optr72nltnu88k5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV_Xwv7lkrYEdDzglWJ5wNXZwT-IhtknI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142655714956-bs3q78a3or8cmfrv6optr72nltnu88k5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
